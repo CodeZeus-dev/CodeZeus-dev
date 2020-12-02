@@ -1,1 +1,1 @@
-![](https://user-images.githubusercontent.com/65397514/100933368-2520e500-34e5-11eb-8a16-e33a6767e65a.gif)
+<img src="https://user-images.githubusercontent.com/65397514/100933368-2520e500-34e5-11eb-8a16-e33a6767e65a.gif" width="100%"/>
