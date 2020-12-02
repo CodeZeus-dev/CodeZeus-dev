@@ -1,3 +1,3 @@
 # Welcome to Constantine's Coding World!
 
-<img src="https://steamuserimages-a.akamaihd.net/ugc/976605526728914488/6EBFEA16E4A1BA3553B267E5F79381E8A7A7C2EF/">
+<iframe src="https://giphy.com/embed/JyDRF3CFe6OGAFnCCJ" width="480" height="258" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/JyDRF3CFe6OGAFnCCJ">via GIPHY</a></p>
